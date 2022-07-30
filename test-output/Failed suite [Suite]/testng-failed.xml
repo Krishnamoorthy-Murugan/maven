@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]" parallel="classes">
+  <test thread-count="6" name="Test(failed)(failed)" parallel="classes">
+    <classes>
+      <class name="com.testingtestng.Pencil">
+        <methods>
+          <include name="tc22"/>
+        </methods>
+      </class> <!-- com.testingtestng.Pencil -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->
